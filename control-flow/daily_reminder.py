@@ -12,14 +12,3 @@ while row < size:
     # Move to next line after completing each row
     print()
     row += 1
-
-
-
-
-
-
-
-
-
-
-
