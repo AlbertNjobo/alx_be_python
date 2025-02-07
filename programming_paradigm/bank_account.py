@@ -15,7 +15,7 @@ class BankAccount:
             return True
         elif amount < 0 :
             return False
-        else
+        else :
             return False
 
     def display_balance(self):
